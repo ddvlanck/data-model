@@ -1,0 +1,1 @@
+window.DataFactory = require('./lib/data-factory');
